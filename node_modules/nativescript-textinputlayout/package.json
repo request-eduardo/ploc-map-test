@@ -1,0 +1,73 @@
+{
+  "name": "nativescript-textinputlayout",
+  "version": "0.1.3",
+  "description": "A NativeScript plugin to provide an XML widget to implement the Material Design TextInputLayout.",
+  "main": "textInputLayout.js",
+  "nativescript": {
+    "platforms": {
+      "android": "1.6.3"
+    }
+  },
+  "scripts": {
+    "build": "tsc",
+    "demo.android": "npm run preparedemo; cd demo; tns run android",
+    "preparedemo": "npm run build; cd demo; tns plugin remove nativescript-textinputlayout; tns plugin add ..; tns install",
+    "setup": "cd demo; npm install; cd ..; npm run build; cd demo; tns plugin add ..; cd .."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradleygore/nativescript-textinputlayout.git"
+  },
+  "keywords": [
+    "NativeScript",
+    "native",
+    "script",
+    "float",
+    "floating label",
+    "android",
+    "TextInputLayout",
+    "Material Design",
+    "bradleygore"
+  ],
+  "contributors": [],
+  "author": {
+    "name": "Bradley Gore",
+    "email": "bradley@bradleygore.com",
+    "url": "https://github.com/bradleygore"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bradleygore/nativescript-textinputlayout/issues"
+  },
+  "homepage": "https://github.com/bradleygore/nativescript-textinputlayout",
+  "devDependencies": {
+    "typescript": "^1.8.7"
+  },
+  "gitHead": "39b871f7e39a594cfd67cb0031a1ea55ad33a573",
+  "_id": "nativescript-textinputlayout@0.1.3",
+  "_shasum": "cc6802cbf01a225cb87d915cd28924a69c991758",
+  "_from": "nativescript-textinputlayout@latest",
+  "_npmVersion": "2.14.7",
+  "_nodeVersion": "4.2.1",
+  "_npmUser": {
+    "name": "bradleygore",
+    "email": "bradley@bradleygore.com"
+  },
+  "dist": {
+    "shasum": "cc6802cbf01a225cb87d915cd28924a69c991758",
+    "tarball": "https://registry.npmjs.org/nativescript-textinputlayout/-/nativescript-textinputlayout-0.1.3.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "bradleygore",
+      "email": "bradley@bradleygore.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/nativescript-textinputlayout-0.1.3.tgz_1463158072695_0.08673504553735256"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/nativescript-textinputlayout/-/nativescript-textinputlayout-0.1.3.tgz",
+  "readme": "ERROR: No README data found!"
+}

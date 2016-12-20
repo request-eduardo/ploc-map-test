@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "removeComments": true,
+        "experimentalDecorators": true,
+        "sourceMap": false,
+        "declaration": false
+    },
+    "files": [
+      "demo/node_modules/tns-core-modules/tns-core-modules.d.ts",
+      "textInputLayout.common.ts",
+      "textInputLayout.android.ts",
+      "textInputLayout.d.ts"
+    ],
+    "compileOnSave": false
+}

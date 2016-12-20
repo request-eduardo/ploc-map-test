@@ -1,0 +1,65 @@
+{
+  "name": "nativescript-mapbox",
+  "version": "2.3.1",
+  "description": "Native Maps, by Mapbox.",
+  "main": "mapbox.js",
+  "typings": "mapbox.d.ts",
+  "nativescript": {
+    "platforms": {
+      "android": "2.3.0",
+      "ios": "2.3.0"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddyverbruggen/nativescript-mapbox.git"
+  },
+  "keywords": [
+    "ecosystem:nativescript",
+    "NativeScript",
+    "Map",
+    "Maps",
+    "Native Maps",
+    "Mapbox"
+  ],
+  "author": {
+    "name": "Telerik / Eddy Verbruggen",
+    "email": "eddyverbruggen@gmail.com"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/eddyverbruggen/nativescript-mapbox/blob/master/LICENSE"
+  },
+  "bugs": {
+    "url": "https://github.com/eddyverbruggen/nativescript-mapbox/issues"
+  },
+  "homepage": "https://github.com/eddyverbruggen/nativescript-mapbox",
+  "gitHead": "53ac14ade405a3b5b1a896496d0b0bffbdc64ca5",
+  "_id": "nativescript-mapbox@2.3.1",
+  "scripts": {},
+  "_shasum": "78597bc1c69608bd8cb0f89f10afe3f211e67dd0",
+  "_from": "nativescript-mapbox@latest",
+  "_npmVersion": "2.14.7",
+  "_nodeVersion": "4.2.2",
+  "_npmUser": {
+    "name": "eddyverbruggen",
+    "email": "eddyverbruggen@gmail.com"
+  },
+  "dist": {
+    "shasum": "78597bc1c69608bd8cb0f89f10afe3f211e67dd0",
+    "tarball": "https://registry.npmjs.org/nativescript-mapbox/-/nativescript-mapbox-2.3.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "eddyverbruggen",
+      "email": "eddyverbruggen@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/nativescript-mapbox-2.3.1.tgz_1480950175040_0.55608627689071"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/nativescript-mapbox/-/nativescript-mapbox-2.3.1.tgz",
+  "readme": "ERROR: No README data found!"
+}

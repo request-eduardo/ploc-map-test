@@ -1,0 +1,92 @@
+<!-- <StackLayout class="p-20">
+    <Label text="Tap the button" class="h1 text-center"></Label>
+    <Button text="TAP" (tap)="onTap()" class="btn btn-primary btn-active"></Button>
+    <Label [text]="message" class="h2 text-center" textWrap="true"></Label>
+</StackLayout>
+ -->
+
+
+<!-- <Page xmlns="http://schemas.nativescript.org/tns.xsd" xmlns:map="nativescript-mapbox" xmlns:TIL="nativescript-textinputlayout" navigatingTo="navigatingTo" loaded="pageLoaded"> -->
+  <GridLayout columns="*" rows="*">    
+    <ContentView height="100%" width="100%" col="0" row="0" backgroundColor="blue">
+      <Mapbox
+          accessToken="pk.eyJ1IjoicmVxdWVzdGNsIiwiYSI6ImNpdzViMTZoajAxM3cyb3FxZ2wzbDJ0NmoifQ.gGVjdztWEcpHkxjnzd0Y8A"
+          mapStyle="mapbox:///styles/requestcl/ciw5b8iwz001r2jpp0kso8q1i"
+          latitude="-33.425"
+          longitude="-70.615"
+          zoomLevel="15"
+          showUserLocation="true"
+          mapReady="onMapReady">
+      </Mapbox>
+    </ContentView>
+    <!--<Label id="color_overlay" text="" col="0" row="0" style="background-color: rgb(75,39,115);" isUserInteractionEnabled="false"></Label>-->
+
+    <!--<FlexboxLayout col="0" row="0" flexDirection="column" justifyContent="center" margin="0.001%">
+        <FlexboxLayout flexDirection="column" padding="40%" isUserInteractionEnabled="false">
+            <Image src="~/images/logo.png" padding="15%" isUserInteractionEnabled="false"></Image>
+        </FlexboxLayout>
+
+        <FlexboxLayout flexDirection="column" justifyContent="space-between">
+
+            <android>
+
+                <TIL:TextInputLayout class="textinputlayout"
+                    hint="Usuario"
+                    error="Introduzca un usuario válido"
+                    errorEnabled="false"
+                    hintAnimationEnabled="false"
+                    hintTextAppearance=""
+                    counterEnabled="false">
+         
+
+                    <TextField text="" ></TextField>
+                </TIL:TextInputLayout>
+
+                <TIL:TextInputLayout class="textinputlayout"
+                    hint="Contraseña"
+                    error="Introduzca una contraseña válida"
+                    errorEnabled="false"
+                    hintAnimationEnabled="false"
+                    hintTextAppearance=""
+                    counterEnabled="false">
+         
+
+                    <TextField text="" secure="true"></TextField>
+                </TIL:TextInputLayout>
+
+            </android>
+
+            <ios>
+
+                <TextField text="" hint="Usuario"></TextField>
+                <TextField text="" hint="Contraseña" secure="true"></TextField>
+
+            </ios>
+
+            <FlexboxLayout flexDirection="row" justifyContent="space-between">
+                <Button class="link" text="Recuperar contraseña"></Button>
+                <FlexboxLayout flexDirection="row" justifyContent="space-around" alignItems="center" class="m-10">
+                    <Switch style="margin-left: 10;"></Switch>
+                    <Label class="switch_label" text="Recuérdame" textWrap="true"></Label>                    
+                </FlexboxLayout>
+            </FlexboxLayout>
+            <StackLayout class="hr-light"></StackLayout>
+        </FlexboxLayout>
+
+        <FlexboxLayout flexDirection="row" justifyContent="space-between">
+            <Border class="but_border" flexGrow="1">
+                <Button class="but_text blue" text="Crear Cuenta"></Button>
+            </Border>
+            <Border class="but_border green" flexGrow="1">
+                <Button class="but_text" text="Iniciar Sesión"></Button>  
+            </Border>                  
+        </FlexboxLayout>
+
+        <Border class="but_border blue" flexGrow="1">
+                <Button class="but_text" text="Identifícate con Facebook"></Button>
+            </Border>
+
+    </FlexboxLayout>  
+     
+  </GridLayout>-->
+<!-- </Page> -->

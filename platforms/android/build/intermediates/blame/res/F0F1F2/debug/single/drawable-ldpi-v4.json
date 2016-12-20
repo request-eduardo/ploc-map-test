@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/eduardo/Desktop/DEV/ploc/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-ldpi-v4/background.png",
+        "source": "/home/eduardo/Desktop/DEV/ploc/platforms/android/src/main/res/drawable-ldpi/background.png"
+    },
+    {
+        "merged": "/home/eduardo/Desktop/DEV/ploc/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-ldpi-v4/ic_info_outline_24dp_selected.png",
+        "source": "/home/eduardo/Desktop/DEV/ploc/platforms/android/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/4.1.1/res/drawable-ldpi-v4/ic_info_outline_24dp_selected.png"
+    },
+    {
+        "merged": "/home/eduardo/Desktop/DEV/ploc/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-ldpi-v4/icon.png",
+        "source": "/home/eduardo/Desktop/DEV/ploc/platforms/android/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/home/eduardo/Desktop/DEV/ploc/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-ldpi-v4/logo.png",
+        "source": "/home/eduardo/Desktop/DEV/ploc/platforms/android/src/main/res/drawable-ldpi/logo.png"
+    },
+    {
+        "merged": "/home/eduardo/Desktop/DEV/ploc/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-ldpi-v4/ic_info_outline_24dp.png",
+        "source": "/home/eduardo/Desktop/DEV/ploc/platforms/android/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/4.1.1/res/drawable-ldpi-v4/ic_info_outline_24dp.png"
+    }
+]

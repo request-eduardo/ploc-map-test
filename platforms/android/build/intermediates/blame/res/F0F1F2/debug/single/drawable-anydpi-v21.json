@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/eduardo/Desktop/DEV/ploc/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-anydpi-v21/ic_info_outline_24dp_selected.xml",
+        "source": "/home/eduardo/Desktop/DEV/ploc/platforms/android/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/4.1.1/res/drawable-anydpi-v21/ic_info_outline_24dp_selected.xml"
+    },
+    {
+        "merged": "/home/eduardo/Desktop/DEV/ploc/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-anydpi-v21/ic_info_outline_24dp.xml",
+        "source": "/home/eduardo/Desktop/DEV/ploc/platforms/android/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/4.1.1/res/drawable-anydpi-v21/ic_info_outline_24dp.xml"
+    }
+]
